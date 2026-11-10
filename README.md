@@ -1,16 +1,15 @@
-# ShadowComm — Counter-Intelligence & Ephemeral Communication Platform
+# ShadowComm — Archived Namespace Placeholder
 
 > [!NOTE]
-> **Repository Status:** This repository serves as the public namespace placeholder for the **ShadowComm / Shadow Message Cipher** initiative.
+> **Archived Repository Notice:** This repository serves as an archived namespace placeholder for the **ShadowComm / Shadow Message Cipher** initiative.
 > Active application implementations are maintained in:
 > - **Client Application (Cipher UI):** **👉 [StratagemVX/SDC-Level-3](https://github.com/StratagemVX/SDC-Level-3)**
 > - **Full-Stack & PDF Steganography Backend:** **👉 [Manohar005-PY/Shadow_comm](https://github.com/Manohar005-PY/Shadow_comm)**
 
 ---
 
-## 1. Project Title
-**ShadowComm** (`ShadowComm`) — Counter-Intelligence & Secure Communication Placeholder.
+## Repository Status
 
-## 2. Active Implementation Mapping
-- Client Encryption Interface: [StratagemVX/SDC-Level-3](https://github.com/StratagemVX/SDC-Level-3)
-- Steganography & Detection Backend: [Manohar005-PY/Shadow_comm](https://github.com/Manohar005-PY/Shadow_comm)
+- **Status:** Archived (Read-Only)
+- **Client Encryption Interface:** [StratagemVX/SDC-Level-3](https://github.com/StratagemVX/SDC-Level-3)
+- **Author:** Chethan Kumar B S (`StratagemVX`)
